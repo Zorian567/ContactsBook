@@ -1,0 +1,14 @@
+C:\Users\zoria\source\repos\ContactsBook\ContactsBook\bin\Debug\net6.0\ContactsBook.exe
+C:\Users\zoria\source\repos\ContactsBook\ContactsBook\bin\Debug\net6.0\ContactsBook.deps.json
+C:\Users\zoria\source\repos\ContactsBook\ContactsBook\bin\Debug\net6.0\ContactsBook.runtimeconfig.json
+C:\Users\zoria\source\repos\ContactsBook\ContactsBook\bin\Debug\net6.0\ContactsBook.dll
+C:\Users\zoria\source\repos\ContactsBook\ContactsBook\bin\Debug\net6.0\ContactsBook.pdb
+C:\Users\zoria\source\repos\ContactsBook\ContactsBook\obj\Debug\net6.0\ContactsBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zoria\source\repos\ContactsBook\ContactsBook\obj\Debug\net6.0\ContactsBook.AssemblyInfoInputs.cache
+C:\Users\zoria\source\repos\ContactsBook\ContactsBook\obj\Debug\net6.0\ContactsBook.AssemblyInfo.cs
+C:\Users\zoria\source\repos\ContactsBook\ContactsBook\obj\Debug\net6.0\ContactsBook.csproj.CoreCompileInputs.cache
+C:\Users\zoria\source\repos\ContactsBook\ContactsBook\obj\Debug\net6.0\ContactsBook.dll
+C:\Users\zoria\source\repos\ContactsBook\ContactsBook\obj\Debug\net6.0\refint\ContactsBook.dll
+C:\Users\zoria\source\repos\ContactsBook\ContactsBook\obj\Debug\net6.0\ContactsBook.pdb
+C:\Users\zoria\source\repos\ContactsBook\ContactsBook\obj\Debug\net6.0\ContactsBook.genruntimeconfig.cache
+C:\Users\zoria\source\repos\ContactsBook\ContactsBook\obj\Debug\net6.0\ref\ContactsBook.dll
